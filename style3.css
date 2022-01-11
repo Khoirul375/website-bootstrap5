@@ -1,0 +1,139 @@
+/*Navbar*/
+.navbar-brand {
+  font-family: Viga;
+  font-size: 30px
+}
+
+.nav-link {
+  text-transform: uppercase;
+  margin-right: 25px;
+}
+
+.nav-link:hover::after {
+  content: '';
+  display: block;
+  border-bottom: solid #0B63DC;
+  width: 50%;
+  margin: auto;
+  padding-bottom: 5px;
+  margin-bottom: -8px;
+}
+
+/*Jumbotron*/
+.jumbotron {
+  background: url('assets/bg.jpg')
+    no-repeat center center;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  color: #fff;
+}
+
+/*
+.jumbotron {
+  background-image: url('assets/background.jpg');
+  background-size: cover;
+  height: 640px;
+  margin-top: -75px;
+}
+*/
+/*Layanan*/
+.fas {
+  color: #fff;
+}
+.card-body {
+  color:#fff
+}
+.bg-layanan1 {
+  background-color: #0560F9;
+}
+
+.bg-layanan2 {
+  background-color: #C702F2;
+}
+
+.bg-layanan3 {
+  background-color: #FFBC01;
+}
+
+.bg-layanan4 {
+  background-color: #F6075C;
+}
+
+/*
+.lingkaran {
+  display: inline-block;
+  border-radius: 50%;
+  width: 150px;
+  margin: auto;
+  height: 150px;
+  color: #fff;
+  background-color: #DC3545;
+}
+*/
+/*
+.lingkaran i {
+  position: relative;
+  top: 30px;
+}
+*/
+
+/*Portofolio*/
+.crop-img {
+  object-fit: cover;
+}
+
+/*Tim*/
+.tim img {
+  width: 200px;
+  border: 7px solid #cccccc;
+}
+/*
+.tim2 img {
+  float: left;
+  width: 200px;
+  border: 7px solid #cccccc;
+}
+*/
+a.social {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  color: #fff;
+  border-radius: 50%;
+  background-color: #333;
+  line-height: 40px;
+}
+
+/*
+.tim {
+  display: flex;
+}
+
+.tim2 {
+  float: right;
+}
+*/
+
+.client img {
+  height: auto;
+  max-height: 50px;
+}
+
+/*Kontak*/
+.kontak {
+  background: url('assets/contactus.jpg');
+  background-size: cover;
+  padding-bottom: 20%;
+  padding-top: 20%;
+  color: #fff;
+}
+
+/*Footer*/
+.footer1 {
+  float: left;
+}
+
+.footer2 {
+  float: right;
+}
