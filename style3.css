@@ -115,12 +115,13 @@ a.social {
 
 /*Kontak*/
 .kontak {
-  background: url('assets/contactus.jpg');
-  background-size: cover;
-  padding-bottom: 20%;
-  padding-top: 20%;
-  color: #fff;
-}
+   background-position: center center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   padding-bottom: 20%;
+   padding-top: 20%;
+   color: #fff;
+ }
 
 /*Footer*/
 .footer1 {
