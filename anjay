@@ -1,0 +1,38 @@
+<div class="container-fluid pt-5 pb-5 bg-light ">
+      <div class="container text-center">
+        <h2 class="display-3" id="staff">Staff</h2>
+        <p>
+          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Et deleniti
+          quas at magni, iusto voluptates neque corrupti dolorum! Repellat,
+          quod.
+        </p>
+        <div class="row pt-4 gx-4 gy-4 justify-content-center">
+          <div class="col-md-4 text-center tim">
+            <img
+              src="assets/nihaya"
+              class="rounded-circle mb-3"
+            />
+            <h4>Nihaya Mustafiyah</h4>
+            <p>Web Designer</p>
+            <p>
+              <a href="" class="social"><i class="fab fa-twitter"></i></a>
+              <a href="" class="social"><i class="fab fa-facebook-f"></i></a>
+              <a href="" class="social"><i class="fab fa-linkedin-in"></i></a>
+            </p>
+          </div>
+          <div class="col-md-4 text-center tim">
+            <img
+              src="assets/logogamelabnihaya"
+              class="rounded-circle mb-3"
+            />
+            <h4>Gameleb</h4>
+            <p>Mentor</p>
+            <p>
+              <a href="" class="social"><i class="fab fa-twitter"></i></a>
+              <a href="" class="social"><i class="fab fa-facebook-f"></i></a>
+              <a href="" class="social"><i class="fab fa-linkedin-in"></i></a>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
