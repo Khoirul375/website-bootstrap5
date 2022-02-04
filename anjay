@@ -1,3 +1,30 @@
+<!--About-->
+  <section class="pad">
+    <div class="pb-5 about" id="about">
+      <div class="container">
+        <div class="media">
+          <img class="mr-3" src="img/profil/menabout.png" width="100" height="115" alt=""/>
+          <div class="media-body">
+            <h5 class="mt-0">Ghozali Ghozalu</h5>
+            <p class="mb-0 about">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+            </p>
+            <hr>
+            <h5>Skill List</h5>
+            <ul>
+              <li>Front-end Website (HTML5, CSS3, JavaScript)
+              </li>
+              <li>Back-end Website (PHP, Laravel, Apache)
+              </li>
+              <li>Content Management System (Wordpress)
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+<!--End About-->
+
 <section class="py-5 bg-light" id="gallery">
         <div class="container">
             <h1 class="display-4 mb-4 pt-5"><strong>Gallery</strong></h1>
